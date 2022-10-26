@@ -26,7 +26,5 @@ We finetuned a **bert-base-cased**. The following tables show the hyper paramete
 |Epochs|5|
 |Scheduler|Linear Schedule|
 |Loss function|Cross Entropy Loss|
-|
-
 
 
